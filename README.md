@@ -1,4 +1,4 @@
-# Class Work in modul TypeScript.
+# Home Work in modul TypeScript.
 
 ### Налаштування 
 

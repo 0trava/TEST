@@ -5,7 +5,7 @@
 1. Знайомлення з ТайпСкріпт
 2. Налаштування tsconfig.json
 
-~ ~ ~
+~~~
 
 Команди:
 npm install -g typescript -> встановлення TypeScript
@@ -18,7 +18,7 @@ npm i --save-dev @web/dev-server -> і сам сервер
 
 npm start -> запуск програми
 
-~ ~ ~
+~~~
 #### Налаштування tsconfig.json
 
 ~~~
